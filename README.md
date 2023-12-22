@@ -2,8 +2,8 @@
 <h1 align="center"> Hi there👋, I'm Djillali</h1>
 
 <h3 align="center">A Full Stack Developer speacialized in Reactjs && Nodejs</h3>
-<p align="center">I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with various technologies.</p>
-------
+<p align="center">Enthusiastically dedicated to mastering languages, frameworks, and emerging tech. Thrives on the creative fusion of design and technology to bring websites to life. Committed to staying at the forefront of innovation in the ever-evolving digital realm.</p>
+
 # 💫 About Me:
 🎓 I have a Master's Degree in Computer Science (Bioinformatics - Data Science). Obtained from the University of Science & Technologies Houari Boumediene (USTHB), Algeria.<br><br>💻 Not all my projects are available on my github profile otherwise i will go to jail :')<br><br>✨ Interests: Coding, Art, Hiking, Randonnée, discovering new peaceful places with good company.<br><br>💬 Ask me about Reactjs, Nodejs, life, evolution, religions, dogmas...<br><br>⚡ Fun fact that i've lost about half of my github contributions after getting kicked out from the private organizations where i've worked previously :(
 
