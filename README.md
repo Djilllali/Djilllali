@@ -7,8 +7,11 @@
 # 💫 About Me:
 🎓 I have a Master's Degree in Computer Science (Bioinformatics - Data Science). Obtained from the University of Science & Technologies Houari Boumediene (USTHB), Algeria.<br><br>💻 Not all my projects are available on my github profile otherwise i will go to jail :')<br><br>✨ Interests: Coding, Art, Hiking, Randonnée, discovering new peaceful places with good company.<br><br>💬 Ask me about Reactjs, Nodejs, life, evolution, religions, dogmas...<br><br>⚡ Fun fact that i've lost about half of my github contributions after getting kicked out from the private organizations where i've worked previously :(
 
-<h1>My portfolio link is <a href="https://djillali-portfolio.vercel.app/">here</a></h1>
-## 🌐 Socials:
+# My Portfolio
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-3498db?style=for-the-badge&logo=github)](https://djillali-portfolio.vercel.app/)
+
+Check out my portfolio to learn more about my work and projects!## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dj0zer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joe_zerr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dj0zer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/djillali-zeroukhi) 
 
 # 💻 Tech Stack:
