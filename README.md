@@ -9,9 +9,10 @@
 
 # My Portfolio
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-3498db?style=for-the-badge&logo=github)](https://djillali-portfolio.vercel.app/)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-3498db?style=for-the-badge&logo=github)](https://djillali-portfolio.vercel.app/){:target="_blank"}
+Check out my portfolio to learn more about my work and projects!
 
-Check out my portfolio to learn more about my work and projects!## 🌐 Socials:
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dj0zer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joe_zerr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dj0zer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/djillali-zeroukhi) 
 
 # 💻 Tech Stack:
