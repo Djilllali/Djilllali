@@ -9,9 +9,7 @@
 
 # My Portfolio
 
-<a href="https://djillali-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-3498db?style=for-the-badge&logo=github" alt="Visit Portfolio">
-</a>
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-3498db?style=for-the-badge&logo=github)](https://djillali-portfolio.vercel.app/)
 
 Check out my portfolio to learn more about my work and projects!
 
