@@ -9,7 +9,7 @@
 
 # My Portfolio
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-3498db?style=for-the-badge&logo=github)](https://djillali-portfolio.vercel.app/)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-3498db?style=for-the-badge&logo=github)](https://djillali.pro/)
 
 Check out my portfolio to learn more about my work and projects!
 
